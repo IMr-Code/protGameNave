@@ -1,0 +1,8 @@
+#canvas{
+
+    background-color: rgb(10, 92, 170);
+    width: 500px;
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+}
